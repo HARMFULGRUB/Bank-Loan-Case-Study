@@ -65,8 +65,8 @@ The analysis showed that:
 |-------------|-------------|
 | [Raw Data](https://drive.google.com/drive/folders/1w32shC4dyunH2An-XcVAHr9NMci7SZOj?usp=sharing) | The raw data used for the case study |
 | [Excel File](https://docs.google.com/spreadsheets/d/1nE-GiNwZo47OF-ZM38DWNUjzQS4CtUf6/edit?usp=sharing&ouid=110084775411420359517&rtpof=true&sd=true) (106MB) | The complete EDA workbook in Excel |
-| `Bank Loan Case Study - Ashiq Paul.pdf` | PDF report with written insights |
-| `Bank Loan Case Study - Ashiq Paul.pptx` | Slide deck used for presentation |
+| [Bank Loan Case Study - Ashiq Paul.pdf](https://github.com/HARMFULGRUB/Bank-Loan-Case-Study/blob/main/Bank%20Loan%20Case%20Study%20-%20Ashiq%20Paul.pdf) | PDF report with written insights |
+| [Bank Loan Case Study - Ashiq Paul.pptx](https://github.com/HARMFULGRUB/Bank-Loan-Case-Study/blob/main/Bank%20Loan%20Case%20Study%20-%20Ashiq%20Paul.pptx) | Slide deck used for presentation |
 | `README.md` | This project overview file |
 
 ---
