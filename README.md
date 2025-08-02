@@ -63,8 +63,8 @@ The analysis showed that:
 
 | File/Folder | Description |
 |-------------|-------------|
-| `[Raw Data](https://drive.google.com/drive/folders/1w32shC4dyunH2An-XcVAHr9NMci7SZOj?usp=sharing)` | The raw data used for the case study |
-| `[Excel File](https://docs.google.com/spreadsheets/d/1nE-GiNwZo47OF-ZM38DWNUjzQS4CtUf6/edit?usp=sharing&ouid=110084775411420359517&rtpof=true&sd=true)` | The complete EDA workbook in Excel |
+| [Raw Data](https://drive.google.com/drive/folders/1w32shC4dyunH2An-XcVAHr9NMci7SZOj?usp=sharing) | The raw data used for the case study |
+| [Excel File](https://docs.google.com/spreadsheets/d/1nE-GiNwZo47OF-ZM38DWNUjzQS4CtUf6/edit?usp=sharing&ouid=110084775411420359517&rtpof=true&sd=true) | The complete EDA workbook in Excel |
 | `Bank Loan Case Study - Ashiq Paul.pdf` | PDF report with written insights |
 | `Bank Loan Case Study - Ashiq Paul.pptx` | Slide deck used for presentation |
 | `README.md` | This project overview file |
