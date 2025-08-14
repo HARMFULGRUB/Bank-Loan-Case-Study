@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Case Study – Risk Pattern Analysis using Excel By Ashiq Paul
+# 🏦 Bank Loan Case Study
 
 ## 📌 Project Overview
 
